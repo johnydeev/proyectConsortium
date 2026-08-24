@@ -1,6 +1,6 @@
 import {NextResponse} from 'next/server'
-import Edificios from '@/models/Edificios'
-import {connectDB} from '@/utils/dbConnect'
+import Edificios from '@/Models/edificios'
+import {connectDB} from '@/Utils/dbConnect'
 
 connectDB()
 

@@ -1,6 +1,6 @@
 "use client"
 import React , { useState }from 'react'
-import ReadExcel from '@/components/ReadExcel'
+import ReadExcel from '@/Components/ReadExcel'
 import axios from 'axios'
 
 

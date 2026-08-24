@@ -1,6 +1,6 @@
 "use client"
-import Top from '@/components/Top'
-import Personalized from '@/components/Personalized'
+import Top from '@/Components/Top'
+import Personalized from '@/Components/Personalized'
 import { toast, Toaster } from "sonner"
 
 const Detalle = () => {

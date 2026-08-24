@@ -1,4 +1,4 @@
-import Rubros from '@/components/Rubros'
+import Rubros from '@/Components/Rubros'
 import React from 'react'
 
 const Prorrateo = () => {

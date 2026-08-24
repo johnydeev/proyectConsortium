@@ -1,4 +1,4 @@
-import {transporter, mailOptions} from '@/utils/sendEmails';
+import {transporter, mailOptions} from '@/Utils/sendEmails';
 import { NextResponse } from 'next/server';
 // import { promises as fs } from 'fs';
 
